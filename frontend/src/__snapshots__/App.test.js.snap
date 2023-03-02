@@ -1,0 +1,397 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test of AboutPage 1`] = `
+<div
+  className="container"
+  style={
+    Object {
+      "marginTop": "15px",
+    }
+  }
+>
+  <div
+    className="vstack gap-3"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          <h3>
+            About
+          </h3>
+        </div>
+        <p
+          className="card-text"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et placerat eros. Nullam sem eros, dapibus eu efficitur quis, tincidunt vitae lorem. Cras vitae viverra tellus. Pellentesque faucibus risus ac semper auctor. Aenean dictum mauris ornare vestibulum suscipit. Fusce sagittis leo scelerisque consectetur pellentesque. Integer nec ante maximus, viverra sapien eget, pulvinar urna. Suspendisse ut volutpat leo, vitae tempus est. Mauris ullamcorper, velit vel dapibus molestie, erat turpis sodales turpis, lacinia dignissim tellus nisi sit amet dui. Sed placerat ligula non orci porttitor vehicula.
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          <h3>
+            Location
+          </h3>
+        </div>
+        <p
+          className="card-text"
+        >
+          Vivamus a augue luctus, feugiat massa vitae, condimentum sapien. Nunc condimentum non sapien non efficitur. Pellentesque at orci a mi varius varius et non ex. Vivamus consectetur sem pellentesque nisi lobortis elementum. Donec et tellus at ligula suscipit lacinia at a mi. Curabitur ipsum felis, luctus eu bibendum nec, consectetur cursus ipsum. Donec tempor purus a ante mollis, eu rhoncus nisl tincidunt. Mauris sem mauris, porta vitae pharetra sed, iaculis eget felis. Aliquam vitae urna eu nunc finibus aliquet pretium in risus. Integer ligula metus, sagittis eget vulputate ac, hendrerit at purus. Fusce lectus sem, luctus placerat libero nec, dapibus accumsan dui. Nulla a luctus purus.
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          <h3>
+            Delivery
+          </h3>
+        </div>
+        <p
+          className="card-text"
+        >
+          Donec consectetur bibendum porttitor. Sed mi metus, porta eu diam a, blandit malesuada sem. Ut ut ex eu enim maximus tempor. Maecenas nec gravida nulla, vitae luctus enim. Aenean sit amet luctus massa. In sit amet tempus enim, ut egestas dolor. Curabitur maximus placerat mollis. Proin finibus ultricies nunc eu vestibulum.
+        </p>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          <h3>
+            FAQ
+          </h3>
+        </div>
+        <p
+          className="card-text"
+        >
+          Cras non pulvinar erat, quis blandit sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium porta dapibus. Sed imperdiet sollicitudin velit, in cursus nunc. Fusce sed lorem porta, aliquet ante sit amet, pulvinar ipsum. Nam augue quam, consequat id erat sed, mollis pulvinar risus. Morbi nulla turpis, gravida vel euismod nec, rhoncus ac mi. Duis sem dui, malesuada sit amet lectus eget, ornare suscipit mauris. Suspendisse potenti.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`snapshot test of ContactPage 1`] = `
+<div
+  className="contact container"
+  style={
+    Object {
+      "marginTop": "15px",
+    }
+  }
+>
+  <div
+    className="mb-3 card"
+  >
+    <div
+      className="card-body"
+    >
+      <h1>
+        Contact Us
+      </h1>
+    </div>
+  </div>
+  <div
+    className="mb-3 hstack"
+    style={
+      Object {
+        "justifyContent": "center",
+      }
+    }
+  >
+    <div
+      className="me-3 card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Name
+        </div>
+        <div
+          className="mb-3"
+        >
+          <input
+            className="form-control"
+            id="formBasicName"
+            placeholder="Your Name"
+            type="text"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="me-3 card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Surname
+        </div>
+        <div
+          className="mb-3"
+        >
+          <input
+            className="form-control"
+            id="formBasicSurname"
+            placeholder="Your Surname"
+            type="text"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="me-3 card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Email
+        </div>
+        <div
+          className="mb-3"
+        >
+          <input
+            className="form-control"
+            id="formBasicEmail"
+            placeholder="Your Email"
+            type="text"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="me-3 card"
+    >
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Phone
+        </div>
+        <div
+          className="mb-3"
+        >
+          <input
+            className="form-control"
+            id="formBasicPhone"
+            placeholder="Your Phone Number"
+            type="text"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="p-3 card"
+  >
+    <form
+      className=""
+    >
+      <div
+        className="mb-3"
+      >
+        <label
+          className="form-label"
+          htmlFor="formBasicAdditionalInfo"
+        >
+          Additional Info
+        </label>
+        <textarea
+          className="form-control"
+          id="formBasicAdditionalInfo"
+          placeholder="Additonal Information"
+          rows={3}
+        />
+      </div>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`snapshot test of HomePage 1`] = `
+<div
+  className="home container"
+  style={
+    Object {
+      "marginTop": "15px",
+    }
+  }
+>
+  <div
+    className="text-center card"
+  >
+    <div
+      className="card-body"
+    >
+      <h1
+        style={
+          Object {
+            "fontSize": "52px",
+            "fontStyle": "italic",
+          }
+        }
+      >
+        Welcome to SA Truck Parts
+      </h1>
+    </div>
+  </div>
+  <div
+    className="mb-3 image-stack hstack gap-2"
+  >
+    <div
+      className="vstack"
+    >
+      <img
+        className="card-img"
+        src="truck1.jpg"
+        style={
+          Object {
+            "maxHeight": "400px",
+          }
+        }
+      />
+    </div>
+    <div
+      className="vstack"
+    >
+      <img
+        className="card-img"
+        src="truck2.jpg"
+        style={
+          Object {
+            "maxHeight": "400px",
+          }
+        }
+      />
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <div
+      className="text-center card-body"
+    >
+      <svg
+        className="me-1"
+        fill="currentColor"
+        height="1em"
+        style={
+          Object {
+            "fontSize": "32px",
+            "marginTop": "-12px",
+          }
+        }
+        viewBox="0 0 16 16"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"
+        />
+      </svg>
+      <a
+        className="card-link"
+        href="https://www.facebook.com/sacarandtruck"
+        style={
+          Object {
+            "fontSize": "32px",
+          }
+        }
+        target="_blank"
+      >
+        Follow us on Facebook!
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`snapshot test of MenuPage 1`] = `
+<div
+  className="container"
+  style={
+    Object {
+      "marginTop": "15px",
+    }
+  }
+>
+  <div
+    className="mb-3 menu-header header text-center card"
+  >
+    <div
+      className="card-body"
+    >
+      <h1
+        style={
+          Object {
+            "fontStyle": "italic",
+          }
+        }
+      >
+        Stock List
+      </h1>
+    </div>
+  </div>
+  <hr />
+  <div
+    className="row"
+  >
+    <div
+      className="products grid-stack hstack gap-2"
+    />
+  </div>
+  <hr />
+  <hr />
+  <div
+    className="row"
+  >
+    <div
+      className="recommended grid-stack hstack gap-2"
+    />
+  </div>
+</div>
+`;

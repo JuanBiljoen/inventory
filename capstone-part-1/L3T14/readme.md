@@ -1,4 +1,3 @@
-#
 # Software Documentation
 
 I am in the process of developing an app where a parts company can list their stock and where end users can view request stock. Below is information on the software requirements and architecture I will use when developing this web application.
@@ -6,7 +5,7 @@ I am in the process of developing an app where a parts company can list their st
 #
 ## System Architecture
 
-I will be using the MERN stack to develop my application. I will use "`Create React App`" to develop the front end of my application. I chose this because I am more familiar with CRA than other libraries like Vite/Next.js. I am going to style the app using bootstrap and CSS. 
+I will be using the MERN stack to develop my application. I will use "`Create React App`" to develop the front end of my application. I chose this because I am more familiar with CRA than other tools like Vite/Next.js. I am going to style the app using bootstrap and CSS. 
 #
 #
 ## System Requirements Specifications
