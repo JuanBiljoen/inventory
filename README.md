@@ -1,7 +1,7 @@
 #
 # Software Documentation
 
-I am in the process of developing an app where a parts company can list their stock and where end users can view request stock. Below is information on the software requirements and architecture I will use when developing this web application.
+I developed an app where a parts company can list their stock and where end users can view request stock. Below is information on the software requirements and architecture I will use when developing this web application.
 #
 #
 ## System Architecture
